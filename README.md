@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola mundo! 🌍 Soy Juan Núñez 👨‍💻</h1>
+<h1 align="center">¡Hola mundo!  Soy Juan Núñez </h1>
 <p align="center">
-  💡 Apasionado por la Inteligencia Artificial | 🤖 Amante de los agentes IA | 🚀 Emprendedor Tech
+  Apasionado por la Inteligencia Artificial |  Amante de los agentes IA | 🚀 Emprendedor Tech
 </p>
 
 ---
