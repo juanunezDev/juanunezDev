@@ -1,86 +1,114 @@
-<h1 align="center">¡Hola mundo!  Soy Juan Núñez </h1>
-<p align="center">
-  Apasionado por la Inteligencia Artificial |  Amante de los agentes IA | 🚀 Emprendedor Tech
-</p>
-
+<div align="center">
+ 
+# Juan Núñez
+### Founder & Full-Stack Developer · Medellín, Colombia
+ 
+*Construyo software real que resuelve problemas reales.*
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-nunez-dev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.nunez.melendez24@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573145514438)
+[![Visitas](https://komarev.com/ghpvc/?username=juanunezdev&label=Visitas&color=a3e635&style=for-the-badge)](https://github.com/juanunezDev)
+ 
+</div>
+ 
 ---
-
-
-
-### 👨‍🎓 Sobre mí
-
-💡 Soy un entusiasta de la tecnología con un gran interés por la **Inteligencia Artificial** y el desarrollo de **agentes inteligentes** para automatizar tareas y crear soluciones reales.  
-🚀 Actualmente me estoy formando en **Java**, **HTML** y **CSS**, con el objetivo de construir **software poderoso** y **aplicaciones móviles** útiles.  
-🎧 También me apasiona la **música**, que forma parte de mi vida como hobby creativo.  
-Quiero emprender combinando herramientas como **n8n**, IA y programación para transformar el comercio electrónico.
-
-
+ 
+## Sobre mí
+ 
+Soy emprendedor tech y desarrollador autodidacta. Me especializo en construir productos SaaS desde cero — desde la idea hasta producción real con usuarios reales. Combino desarrollo de software, automatización con IA y visión de negocio para crear herramientas que funcionan.
+ 
+Actualmente opero **Fynnez Core** en producción con clientes reales y capital real en calle.
+ 
 ---
-
-### 📚 Formación
-
-- 📘 Curso de Desarrollo Web | **Alura LATAM**
-- 🧩 Curso de Soporte Técnico | **Generation Colombia**
-- 🧠 Autodidacta 100% y aprendiendo sin parar
-
+ 
+## Proyectos activos
+ 
+### 🟢 Fynnez Core — *En producción*
+> Plataforma SaaS B2B privada de micropréstamos informales
+ 
+Sistema completo de gestión de préstamos personales con ciclo end-to-end automatizado. Construido y operado en solitario desde Medellín.
+ 
+**Stack:** React 18 · FastAPI · PostgreSQL · Railway · Vercel
+ 
+**En producción:**
+- 15+ clientes activos · $2.2M COP en capital operado
+- Score crediticio gamificado con 5 niveles y 8 insignias
+- Emails automáticos (aprobación, recordatorios, cobros escalantes)
+- Dashboard admin con 2FA · Audit log · CRM de notas
+- Portal personal por cliente con historial y score en tiempo real
+ 
 ---
-
-### 🚀 Mis Proyectos
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| 🧠 ZanBot | Chatbot para reservas por WhatsApp con IA | Twilio, Python |
-| 🌐 Fynnez Social | Red social con enfoque financiero | Django, React, JWT |
-| 🔄 Automatización eCommerce | Implementación de agentes IA + n8n | En desarrollo... |
-
+ 
+### 🔵 FlyDorAI — *En desarrollo*
+> App web de reservas turísticas locales en Medellín con IA
+ 
+Plataforma para descubrir y reservar experiencias turísticas en Medellín potenciada por inteligencia artificial.
+ 
+**Stack:** React · Python · IA generativa
+ 
 ---
-
-### 🛠️ Tecnologías que uso o aprendo
-
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django)
-![React](https://img.shields.io/badge/-React-20232a?logo=react)
-![n8n](https://img.shields.io/badge/-n8n-f68920)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-
+ 
+### 🟡 Hogar Zen — *En desarrollo*
+> E-commerce de productos para el hogar
+ 
+Tienda online especializada en productos de decoración y bienestar para el hogar.
+ 
+**Stack:** React · Django · Stripe
+ 
 ---
-
-### 📈 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanunezdev&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanunezdev&layout=compact&theme=radical" height="165" />
-</p>
-
+ 
+## Stack tecnológico
+ 
+**Frontend**
+ 
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ 
+**Backend**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**Infraestructura & Herramientas**
+ 
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+ 
 ---
-
-### 🏆 Logros y Visitas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juanunezdev&theme=darkhub&margin-w=15" />
-  <img src="https://komarev.com/ghpvc/?username=juanunezdev&label=Visitas&color=0e75b6&style=flat" />
-</p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juanunezDev&theme=noctis-minimus)](https://git.io/streak-stats)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
-
+ 
+## Estadísticas
+ 
+<div align="center">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=juanunezdev&show_icons=true&theme=dark&bg_color=060608&title_color=a3e635&icon_color=a3e635&text_color=efefef&border_color=1a1a22&hide_border=false" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanunezdev&layout=compact&theme=dark&bg_color=060608&title_color=a3e635&text_color=efefef&border_color=1a1a22" height="160" />
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juanunezDev&theme=dark&background=060608&border=1a1a22&ring=a3e635&fire=fbbf24&currStreakLabel=a3e635)](https://git.io/streak-stats)
+ 
+</div>
+ 
 ---
-
-### 📫 ¿Hablamos?
-
-- 📩 **Email:** juan.nunez.melendez24@gmail.com  
-- 💬 **WhatsApp o Telegram:** +57 314 551 4438  
-- 🔗 **LinkedIn:** [linkedin.com/in/juan-nunez-dev](https://www.linkedin.com/in/juan-nunez-dev/)
-
+ 
+## Formación
+ 
+- Desarrollo Web — **Alura LATAM**
+- Soporte Técnico — **Generation Colombia**
+- Autodidacta — aprendiendo sin parar desde Medellín
+ 
 ---
-
-> *“El que persevera, alcanza. Y yo voy con toda.”* — **@JuanunezDev** 💻
+ 
+<div align="center">
+ 
+*"El que persevera, alcanza. Y yo voy con toda."*
+ 
+**@JuanunezDev** · Medellín, Colombia · 2026
+ 
+</div>
