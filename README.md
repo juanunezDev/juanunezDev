@@ -3,7 +3,7 @@
 # Juan Núñez
 ### Founder & Full-Stack Developer · Medellín, Colombia
 
-*Construyo software real que resuelve problemas reales.
+*Construyo software real que resuelve problemas reales.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-nunez-dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.nunez.melendez24@gmail.com)
@@ -17,6 +17,8 @@
 ## Sobre mí
 
 Soy emprendedor tech y desarrollador autodidacta desde Medellín. Me especializo en construir productos SaaS completos desde cero — arquitectura, backend, frontend, infraestructura y operación real. No solo escribo código: opero lo que construyo con usuarios reales, capital real y responsabilidad real.
+
+Trabajo con **IA como copiloto de desarrollo** — la uso para arquitectura, revisión de código y debugging en tiempo real, igual que un desarrollador senior usaría un buen compañero de equipo.
 
 Actualmente dirijo **Fynnez Core** en producción — una plataforma SaaS B2B de micropréstamos que construí y opero en solitario, con más de $3M COP en capital gestionado.
 
@@ -32,7 +34,7 @@ Sistema end-to-end completo para gestión de préstamos personales informales. C
 **Stack:** React 18 + Vite · FastAPI + Python 3.12 · PostgreSQL 17 · Railway · Vercel · Cloudinary · Resend
 
 **Lo que está en producción hoy:**
-- 25+ clientes activos · **$3M+ COP** en capital operado
+- 55+ clientes activos · **$10Millonez+ COP** en capital operado
 - Score crediticio propio v5.1 — 5 niveles, 8 insignias, cap progresivo por historial
 - Portal del cliente por token único impredecible (`/c/FYN-XXXXXX`) — sin autenticación requerida
 - Dashboard admin con **2FA TOTP** (Google Authenticator) + audit log inmutable
@@ -42,7 +44,7 @@ Sistema end-to-end completo para gestión de préstamos personales informales. C
 - Panel de retención CRM con priorización inteligente por días libres
 - Code splitting por rutas — portal cliente carga **~108kB vs ~500kB** (crítico para 4G Colombia)
 - 11 templates de email transaccional (aprobación, recordatorios, mora, motivacionales, ahorro)
-- Rate limiting en endpoints públicos · CORS restringido · logs filtrados en producción
+- Rate limiting · CORS restringido · logs filtrados en producción
 
 **Arquitectura:**
 ```
@@ -96,6 +98,7 @@ Tienda online especializada en productos de decoración y bienestar para el hoga
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-AI%20Copilot-a3e635?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
@@ -123,7 +126,7 @@ Tienda online especializada en productos de decoración y bienestar para el hoga
 
 <div align="center">
 
-
+*"El que persevera, alcanza. Y yo voy con toda."*
 
 **@JuanunezDev** · Medellín, Colombia · 2026
 
