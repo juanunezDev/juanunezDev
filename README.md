@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-Soy emprendedor tech y desarrollador autodidacta desde Medellín. Me especializo en construir productos SaaS completos desde cero — arquitectura, backend, frontend, infraestructura y operación real. No solo escribo código: opero lo que construyo con usuarios reales, capital real y responsabilidad real.
+Soy emprendedor tech y desarrollador  desde Medellín. Me especializo en construir productos SaaS completos desde cero — arquitectura, backend, frontend, infraestructura y operación real. No solo escribo código: opero lo que construyo con usuarios reales, capital real y responsabilidad real.
 
 Trabajo con **IA como copiloto de desarrollo** — la uso para arquitectura, revisión de código y debugging en tiempo real, igual que un desarrollador senior usaría un buen compañero de equipo.
 
