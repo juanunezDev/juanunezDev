@@ -34,7 +34,7 @@ Sistema end-to-end completo para gestión de préstamos personales informales. C
 **Stack:** React 18 + Vite · FastAPI + Python 3.12 · PostgreSQL 17 · Railway · Vercel · Cloudinary · Resend
 
 **Lo que está en producción hoy:**
-- 55+ clientes activos · **$10Millonez+ COP** en capital operado
+- 55+ clientes activos · **$10Millones+ COP** en capital operado
 - Score crediticio propio v5.1 — 5 niveles, 8 insignias, cap progresivo por historial
 - Portal del cliente por token único impredecible (`/c/FYN-XXXXXX`) — sin autenticación requerida
 - Dashboard admin con **2FA TOTP** (Google Authenticator) + audit log inmutable
