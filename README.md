@@ -1,8 +1,7 @@
 <div align="center">
 
 # Juan Núñez
-### Founder & Full-Stack Developer · Medellín, Colombia
-
+### Founder & Full-Stack Developer · Plato, Magdalena-Colombia
 *Construyo software real que resuelve problemas reales.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-nunez-dev/)
