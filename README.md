@@ -123,7 +123,7 @@ Tienda online especializada en productos de decoración y bienestar para el hoga
 
 <div align="center">
 
-*"El que persevera, alcanza. Y yo voy con toda."*
+
 
 **@JuanunezDev** · Medellín, Colombia · 2026
 
