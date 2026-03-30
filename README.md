@@ -28,7 +28,7 @@ Actualmente dirijo **Fynnez Core** en producción — una plataforma SaaS B2B de
 ### 🟢 Fynnez Core — *En producción activa*
 > Plataforma SaaS B2B privada de micropréstamos — Medellín, Colombia
 
-Sistema end-to-end completo para gestión de préstamos personales informales. Construido, desplegado y operado en solitario. Versión actual: **v7.0**
+Sistema end-to-end completo para gestión de préstamos personales . Construido, desplegado y operado en solitario. Versión actual: **v7.0**
 
 **Stack:** React 18 + Vite · FastAPI + Python 3.12 · PostgreSQL 17 · Railway · Vercel · Cloudinary · Resend
 
