@@ -3,7 +3,7 @@
 # Juan Núñez
 ### Founder & Full-Stack Developer · Medellín, Colombia
 
-*Construyo software real que resuelve problemas reales — desde la idea hasta producción con usuarios y capital en calle.*
+*Construyo software real que resuelve problemas reales.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-nunez-dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.nunez.melendez24@gmail.com)
