@@ -19,7 +19,7 @@ Soy emprendedor tech y desarrollador autodidacta desde Medellín. Me especializo
 
 Trabajo con **IA como copiloto de desarrollo** — la uso para arquitectura, revisión de código y debugging en tiempo real, igual que un desarrollador senior usaría un buen compañero de equipo.
 
-Actualmente dirijo **Fynnez Core** en producción — una plataforma SaaS B2B de micropréstamos que construí y opero en solitario, con más de $3M COP en capital gestionado.
+Actualmente dirijo **Fynnez Core** en producción — una plataforma SaaS B2B de micropréstamos que construí y opero en solitario, con más de $10Millones en capital gestionado.
 
 ---
 
